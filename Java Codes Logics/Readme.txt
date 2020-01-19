@@ -1,0 +1,1 @@
+this is java code logics written by sonal goud.
